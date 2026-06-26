@@ -1,0 +1,1100 @@
+{
+  "sites": [
+    {
+      "site_code": "LR_WaterLab_AA",
+      "name": "Logan River at the Utah Water Research Laboratory west bridge",
+      "latitude": 41.739034,
+      "longitude": -111.795742,
+      "elevation_m": 1414.0,
+      "site_type": "Stream",
+      "vertical_datum": "EGM96",
+      "sampling_features": [
+        {
+          "feature_code": "BM",
+          "type": "reference_point",
+          "description": "Test benchmark (arbitrary datum)",
+          "status": "active",
+          "elevation_m": 10.0,
+          "datum": "arbitrary",
+          "is_benchmark": true
+        },
+        {
+          "feature_code": "SP",
+          "type": "stage_plate",
+          "description": "Test stage plate",
+          "status": "active",
+          "length": 1.0,
+          "units": "m",
+          "plate_type": "standard",
+          "bspe_m": 0.0
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "site_code": "LR_Mendon_AA",
+      "name": "Logan River at Mendon Road (600 South)",
+      "latitude": 41.720533,
+      "longitude": -111.886928,
+      "elevation_m": 1353.469604,
+      "site_type": "Stream",
+      "vertical_datum": "EGM96",
+      "sampling_features": [
+        {
+          "feature_code": "BM",
+          "type": "reference_point",
+          "description": "Test benchmark (arbitrary datum)",
+          "status": "active",
+          "elevation_m": 10.0,
+          "datum": "arbitrary",
+          "is_benchmark": true
+        },
+        {
+          "feature_code": "SP",
+          "type": "stage_plate",
+          "description": "Test stage plate",
+          "status": "active",
+          "length": 1.0,
+          "units": "m",
+          "plate_type": "standard",
+          "bspe_m": 0.0
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "site_code": "LR_MainStreet_BA",
+      "name": "Logan River at Main Street (Highway 89/91) Bridge",
+      "latitude": 41.721091,
+      "longitude": -111.835096,
+      "elevation_m": 1377.0,
+      "site_type": "Stream",
+      "vertical_datum": "EGM96",
+      "sampling_features": [
+        {
+          "feature_code": "BM",
+          "type": "reference_point",
+          "description": "Test benchmark (arbitrary datum)",
+          "status": "active",
+          "elevation_m": 10.0,
+          "datum": "arbitrary",
+          "is_benchmark": true
+        },
+        {
+          "feature_code": "SP",
+          "type": "stage_plate",
+          "description": "Test stage plate",
+          "status": "active",
+          "length": 1.0,
+          "units": "m",
+          "plate_type": "standard",
+          "bspe_m": 0.0
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "site_code": "LR_TWDEF_C",
+      "name": "Climate Station at TW Daniels Experimental Forest",
+      "latitude": 41.864805,
+      "longitude": -111.507494,
+      "elevation_m": 2629.2,
+      "site_type": "Atmosphere",
+      "vertical_datum": "EGM96",
+      "sampling_features": [
+        {
+          "feature_code": "BM",
+          "type": "reference_point",
+          "description": "Test benchmark (arbitrary datum)",
+          "status": "active",
+          "elevation_m": 10.0,
+          "datum": "arbitrary",
+          "is_benchmark": true
+        },
+        {
+          "feature_code": "SP",
+          "type": "stage_plate",
+          "description": "Test stage plate",
+          "status": "active",
+          "length": 1.0,
+          "units": "m",
+          "plate_type": "standard",
+          "bspe_m": 0.0
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "site_code": "LR_GC_C",
+      "name": "Climate Station at Logan River Golf Course",
+      "latitude": 41.705643,
+      "longitude": -111.854268,
+      "elevation_m": 1364.89,
+      "site_type": "Atmosphere",
+      "vertical_datum": "EGM96",
+      "sampling_features": [
+        {
+          "feature_code": "BM",
+          "type": "reference_point",
+          "description": "Test benchmark (arbitrary datum)",
+          "status": "active",
+          "elevation_m": 10.0,
+          "datum": "arbitrary",
+          "is_benchmark": true
+        },
+        {
+          "feature_code": "SP",
+          "type": "stage_plate",
+          "description": "Test stage plate",
+          "status": "active",
+          "length": 1.0,
+          "units": "m",
+          "plate_type": "standard",
+          "bspe_m": 0.0
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "site_code": "LR_Wilkins_R",
+      "name": "Wilkins Repeater",
+      "latitude": 41.905986,
+      "longitude": -111.553771,
+      "elevation_m": 2133.6,
+      "site_type": "Atmosphere",
+      "vertical_datum": "EGM96",
+      "sampling_features": [
+        {
+          "feature_code": "BM",
+          "type": "reference_point",
+          "description": "Test benchmark (arbitrary datum)",
+          "status": "active",
+          "elevation_m": 10.0,
+          "datum": "arbitrary",
+          "is_benchmark": true
+        },
+        {
+          "feature_code": "SP",
+          "type": "stage_plate",
+          "description": "Test stage plate",
+          "status": "active",
+          "length": 1.0,
+          "units": "m",
+          "plate_type": "standard",
+          "bspe_m": 0.0
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "site_code": "LR_TG_C",
+      "name": "Climate Station at Tony Grove",
+      "latitude": 41.885493,
+      "longitude": -111.568767,
+      "elevation_m": 1927.86,
+      "site_type": "Atmosphere",
+      "vertical_datum": "EGM96",
+      "sampling_features": [
+        {
+          "feature_code": "BM",
+          "type": "reference_point",
+          "description": "Test benchmark (arbitrary datum)",
+          "status": "active",
+          "elevation_m": 10.0,
+          "datum": "arbitrary",
+          "is_benchmark": true
+        },
+        {
+          "feature_code": "SP",
+          "type": "stage_plate",
+          "description": "Test stage plate",
+          "status": "active",
+          "length": 1.0,
+          "units": "m",
+          "plate_type": "standard",
+          "bspe_m": 0.0
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "site_code": "LR_FB_C",
+      "name": "Climate Station at Franklin Basin",
+      "latitude": 41.949815,
+      "longitude": -111.581352,
+      "elevation_m": 2109.52,
+      "site_type": "Atmosphere",
+      "vertical_datum": "EGM96",
+      "sampling_features": [
+        {
+          "feature_code": "BM",
+          "type": "reference_point",
+          "description": "Test benchmark (arbitrary datum)",
+          "status": "active",
+          "elevation_m": 10.0,
+          "datum": "arbitrary",
+          "is_benchmark": true
+        },
+        {
+          "feature_code": "SP",
+          "type": "stage_plate",
+          "description": "Test stage plate",
+          "status": "active",
+          "length": 1.0,
+          "units": "m",
+          "plate_type": "standard",
+          "bspe_m": 0.0
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "site_code": "LR_TG_BA",
+      "name": "Logan River near Tony Grove",
+      "latitude": 41.875846,
+      "longitude": -111.564533,
+      "elevation_m": 1886.1,
+      "site_type": "Stream",
+      "vertical_datum": "EGM96",
+      "sampling_features": [
+        {
+          "feature_code": "BM",
+          "type": "reference_point",
+          "description": "Test benchmark (arbitrary datum)",
+          "status": "active",
+          "elevation_m": 10.0,
+          "datum": "arbitrary",
+          "is_benchmark": true
+        },
+        {
+          "feature_code": "SP",
+          "type": "stage_plate",
+          "description": "Test stage plate",
+          "status": "active",
+          "length": 1.0,
+          "units": "m",
+          "plate_type": "standard",
+          "bspe_m": 0.0
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "site_code": "LR_FB_BA",
+      "name": "Logan River near Franklin Basin",
+      "latitude": 41.9502,
+      "longitude": -111.580553,
+      "elevation_m": 2110.3,
+      "site_type": "Stream",
+      "vertical_datum": "EGM96",
+      "sampling_features": [
+        {
+          "feature_code": "BM",
+          "type": "reference_point",
+          "description": "Test benchmark (arbitrary datum)",
+          "status": "active",
+          "elevation_m": 10.0,
+          "datum": "arbitrary",
+          "is_benchmark": true
+        },
+        {
+          "feature_code": "SP",
+          "type": "stage_plate",
+          "description": "Test stage plate",
+          "status": "active",
+          "length": 1.0,
+          "units": "m",
+          "plate_type": "standard",
+          "bspe_m": 0.0
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "site_code": "LR_RH_SD",
+      "name": "River Heights Bridge Storm Drain",
+      "latitude": 41.725147,
+      "longitude": -111.825917,
+      "elevation_m": 1373.0,
+      "site_type": "Storm sewer",
+      "vertical_datum": "EGM96",
+      "sampling_features": [
+        {
+          "feature_code": "BM",
+          "type": "reference_point",
+          "description": "Test benchmark (arbitrary datum)",
+          "status": "active",
+          "elevation_m": 10.0,
+          "datum": "arbitrary",
+          "is_benchmark": true
+        },
+        {
+          "feature_code": "SP",
+          "type": "stage_plate",
+          "description": "Test stage plate",
+          "status": "active",
+          "length": 1.0,
+          "units": "m",
+          "plate_type": "standard",
+          "bspe_m": 0.0
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "site_code": "LR_SC_SD",
+      "name": "Spring Creek Storm Drain (Decomissioned)",
+      "latitude": 41.710961,
+      "longitude": -111.833736,
+      "elevation_m": 1386.0,
+      "site_type": "Storm sewer",
+      "vertical_datum": "EGM96",
+      "sampling_features": [],
+      "status": "decommissioned"
+    },
+    {
+      "site_code": "BSF_CONF_BA",
+      "name": "Blacksmith Fork above confluence with Logan River",
+      "latitude": 41.704431,
+      "longitude": -111.8508,
+      "elevation_m": 1366.0,
+      "site_type": "Stream",
+      "vertical_datum": "EGM96",
+      "sampling_features": [
+        {
+          "feature_code": "BM",
+          "type": "reference_point",
+          "description": "Test benchmark (arbitrary datum)",
+          "status": "active",
+          "elevation_m": 10.0,
+          "datum": "arbitrary",
+          "is_benchmark": true
+        },
+        {
+          "feature_code": "SP",
+          "type": "stage_plate",
+          "description": "Test stage plate",
+          "status": "active",
+          "length": 1.0,
+          "units": "m",
+          "plate_type": "standard",
+          "bspe_m": 0.0
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "site_code": "NWF_1600N_CNL",
+      "name": "Northwest Field Canal at 1600 North",
+      "latitude": 41.760956,
+      "longitude": -111.839344,
+      "elevation_m": 1371.0,
+      "site_type": "Canal",
+      "vertical_datum": "EGM96",
+      "sampling_features": [
+        {
+          "feature_code": "BM",
+          "type": "reference_point",
+          "description": "Test benchmark (arbitrary datum)",
+          "status": "active",
+          "elevation_m": 10.0,
+          "datum": "arbitrary",
+          "is_benchmark": true
+        },
+        {
+          "feature_code": "SP",
+          "type": "stage_plate",
+          "description": "Test stage plate",
+          "status": "active",
+          "length": 1.0,
+          "units": "m",
+          "plate_type": "standard",
+          "bspe_m": 0.0
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "site_code": "SLB_600W_CNL",
+      "name": "South Logan Benson Canal at Benson Irrigation Company Flume, 2300 North 600 West",
+      "latitude": 41.7739,
+      "longitude": -111.8489,
+      "elevation_m": 1363.0,
+      "site_type": "Canal",
+      "vertical_datum": "EGM96",
+      "sampling_features": [
+        {
+          "feature_code": "BM",
+          "type": "reference_point",
+          "description": "Test benchmark (arbitrary datum)",
+          "status": "active",
+          "elevation_m": 10.0,
+          "datum": "arbitrary",
+          "is_benchmark": true
+        },
+        {
+          "feature_code": "SP",
+          "type": "stage_plate",
+          "description": "Test stage plate",
+          "status": "active",
+          "length": 1.0,
+          "units": "m",
+          "plate_type": "standard",
+          "bspe_m": 0.0
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "site_code": "SC_CONF_A",
+      "name": "Spring Creek above confluence with Logan River",
+      "latitude": 41.70605556,
+      "longitude": -111.8473056,
+      "elevation_m": 1364.0,
+      "site_type": "Stream",
+      "vertical_datum": "EGM96",
+      "sampling_features": [
+        {
+          "feature_code": "BM",
+          "type": "reference_point",
+          "description": "Test benchmark (arbitrary datum)",
+          "status": "active",
+          "elevation_m": 10.0,
+          "datum": "arbitrary",
+          "is_benchmark": true
+        },
+        {
+          "feature_code": "SP",
+          "type": "stage_plate",
+          "description": "Test stage plate",
+          "status": "active",
+          "length": 1.0,
+          "units": "m",
+          "plate_type": "standard",
+          "bspe_m": 0.0
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "site_code": "LR_WCB_A",
+      "name": "Logan River at Wood Camp Bridge",
+      "latitude": 41.796484,
+      "longitude": -111.64515,
+      "elevation_m": 1629.0,
+      "site_type": "Stream",
+      "vertical_datum": "EGM96",
+      "sampling_features": [
+        {
+          "feature_code": "BM",
+          "type": "reference_point",
+          "description": "Test benchmark (arbitrary datum)",
+          "status": "active",
+          "elevation_m": 10.0,
+          "datum": "arbitrary",
+          "is_benchmark": true
+        },
+        {
+          "feature_code": "SP",
+          "type": "stage_plate",
+          "description": "Test stage plate",
+          "status": "active",
+          "length": 1.0,
+          "units": "m",
+          "plate_type": "standard",
+          "bspe_m": 0.0
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "site_code": "LR_GCB_A",
+      "name": "Logan River at Guinavah Campground Bridge",
+      "latitude": 41.762176,
+      "longitude": -111.698042,
+      "elevation_m": 1545.0,
+      "site_type": "Stream",
+      "vertical_datum": "EGM96",
+      "sampling_features": [
+        {
+          "feature_code": "BM",
+          "type": "reference_point",
+          "description": "Test benchmark (arbitrary datum)",
+          "status": "active",
+          "elevation_m": 10.0,
+          "datum": "arbitrary",
+          "is_benchmark": true
+        },
+        {
+          "feature_code": "SP",
+          "type": "stage_plate",
+          "description": "Test stage plate",
+          "status": "active",
+          "length": 1.0,
+          "units": "m",
+          "plate_type": "standard",
+          "bspe_m": 0.0
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "site_code": "BC_CONF_A",
+      "name": "Beaver Creek above confluence with Logan River",
+      "latitude": 41.93055,
+      "longitude": -111.5619,
+      "elevation_m": 2025.0,
+      "site_type": "Stream",
+      "vertical_datum": "EGM96",
+      "sampling_features": [
+        {
+          "feature_code": "BM",
+          "type": "reference_point",
+          "description": "Test benchmark (arbitrary datum)",
+          "status": "active",
+          "elevation_m": 10.0,
+          "datum": "arbitrary",
+          "is_benchmark": true
+        },
+        {
+          "feature_code": "SP",
+          "type": "stage_plate",
+          "description": "Test stage plate",
+          "status": "active",
+          "length": 1.0,
+          "units": "m",
+          "plate_type": "standard",
+          "bspe_m": 0.0
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "site_code": "RS_CONF_A",
+      "name": "Ricks Spring above confluence with Logan River",
+      "latitude": 41.84008333,
+      "longitude": -111.5887167,
+      "elevation_m": 1785.0,
+      "site_type": "Stream",
+      "vertical_datum": "EGM96",
+      "sampling_features": [
+        {
+          "feature_code": "BM",
+          "type": "reference_point",
+          "description": "Test benchmark (arbitrary datum)",
+          "status": "active",
+          "elevation_m": 10.0,
+          "datum": "arbitrary",
+          "is_benchmark": true
+        },
+        {
+          "feature_code": "SP",
+          "type": "stage_plate",
+          "description": "Test stage plate",
+          "status": "active",
+          "length": 1.0,
+          "units": "m",
+          "plate_type": "standard",
+          "bspe_m": 0.0
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "site_code": "TF_CONF_A",
+      "name": "Temple Fork above confluence with Logan River",
+      "latitude": 41.83421667,
+      "longitude": -111.5916,
+      "elevation_m": 1766.0,
+      "site_type": "Stream",
+      "vertical_datum": "EGM96",
+      "sampling_features": [
+        {
+          "feature_code": "BM",
+          "type": "reference_point",
+          "description": "Test benchmark (arbitrary datum)",
+          "status": "active",
+          "elevation_m": 10.0,
+          "datum": "arbitrary",
+          "is_benchmark": true
+        },
+        {
+          "feature_code": "SP",
+          "type": "stage_plate",
+          "description": "Test stage plate",
+          "status": "active",
+          "length": 1.0,
+          "units": "m",
+          "plate_type": "standard",
+          "bspe_m": 0.0
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "site_code": "SPC_CONF_A",
+      "name": "Spawn Creek above confluence with Temple Fork",
+      "latitude": 41.828495,
+      "longitude": -111.57766,
+      "elevation_m": 1807.0,
+      "site_type": "Stream",
+      "vertical_datum": "EGM96",
+      "sampling_features": [
+        {
+          "feature_code": "BM",
+          "type": "reference_point",
+          "description": "Test benchmark (arbitrary datum)",
+          "status": "active",
+          "elevation_m": 10.0,
+          "datum": "arbitrary",
+          "is_benchmark": true
+        },
+        {
+          "feature_code": "SP",
+          "type": "stage_plate",
+          "description": "Test stage plate",
+          "status": "active",
+          "length": 1.0,
+          "units": "m",
+          "plate_type": "standard",
+          "bspe_m": 0.0
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "site_code": "TF_SAWM_A",
+      "name": "Temple Fork below Sawmill Spring",
+      "latitude": 41.807075,
+      "longitude": -111.544695,
+      "elevation_m": 2008.0,
+      "site_type": "Stream",
+      "vertical_datum": "EGM96",
+      "sampling_features": [
+        {
+          "feature_code": "BM",
+          "type": "reference_point",
+          "description": "Test benchmark (arbitrary datum)",
+          "status": "active",
+          "elevation_m": 10.0,
+          "datum": "arbitrary",
+          "is_benchmark": true
+        },
+        {
+          "feature_code": "SP",
+          "type": "stage_plate",
+          "description": "Test stage plate",
+          "status": "active",
+          "length": 1.0,
+          "units": "m",
+          "plate_type": "standard",
+          "bspe_m": 0.0
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "site_code": "LR_WC_A",
+      "name": "Logan River Above Wood Camp",
+      "latitude": 41.798257,
+      "longitude": -111.644411,
+      "elevation_m": 1631.0,
+      "site_type": "Stream",
+      "vertical_datum": "EGM96",
+      "sampling_features": [
+        {
+          "feature_code": "BM",
+          "type": "reference_point",
+          "description": "Test benchmark (arbitrary datum)",
+          "status": "active",
+          "elevation_m": 10.0,
+          "datum": "arbitrary",
+          "is_benchmark": true
+        },
+        {
+          "feature_code": "SP",
+          "type": "stage_plate",
+          "description": "Test stage plate",
+          "status": "active",
+          "length": 1.0,
+          "units": "m",
+          "plate_type": "standard",
+          "bspe_m": 0.0
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "site_code": "RHF_CONF_A",
+      "name": "Right Hand Fork above confluence with Logan River",
+      "latitude": 41.78116667,
+      "longitude": -111.6390667,
+      "elevation_m": 1612.0,
+      "site_type": "Stream",
+      "vertical_datum": "EGM96",
+      "sampling_features": [
+        {
+          "feature_code": "BM",
+          "type": "reference_point",
+          "description": "Test benchmark (arbitrary datum)",
+          "status": "active",
+          "elevation_m": 10.0,
+          "datum": "arbitrary",
+          "is_benchmark": true
+        },
+        {
+          "feature_code": "SP",
+          "type": "stage_plate",
+          "description": "Test stage plate",
+          "status": "active",
+          "length": 1.0,
+          "units": "m",
+          "plate_type": "standard",
+          "bspe_m": 0.0
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "site_code": "DS_CONF_A",
+      "name": "Dewitt Springs above confluence with Logan River",
+      "latitude": 41.75943333,
+      "longitude": -111.70775,
+      "elevation_m": 1537.0,
+      "site_type": "Stream",
+      "vertical_datum": "EGM96",
+      "sampling_features": [
+        {
+          "feature_code": "BM",
+          "type": "reference_point",
+          "description": "Test benchmark (arbitrary datum)",
+          "status": "active",
+          "elevation_m": 10.0,
+          "datum": "arbitrary",
+          "is_benchmark": true
+        },
+        {
+          "feature_code": "SP",
+          "type": "stage_plate",
+          "description": "Test stage plate",
+          "status": "active",
+          "length": 1.0,
+          "units": "m",
+          "plate_type": "standard",
+          "bspe_m": 0.0
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "site_code": "LR_DSC_A",
+      "name": "Logan River at Dewitt Springs Campground",
+      "latitude": 41.75711667,
+      "longitude": -111.7089,
+      "elevation_m": 1537.0,
+      "site_type": "Stream",
+      "vertical_datum": "EGM96",
+      "sampling_features": [
+        {
+          "feature_code": "BM",
+          "type": "reference_point",
+          "description": "Test benchmark (arbitrary datum)",
+          "status": "active",
+          "elevation_m": 10.0,
+          "datum": "arbitrary",
+          "is_benchmark": true
+        },
+        {
+          "feature_code": "SP",
+          "type": "stage_plate",
+          "description": "Test stage plate",
+          "status": "active",
+          "length": 1.0,
+          "units": "m",
+          "plate_type": "standard",
+          "bspe_m": 0.0
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "site_code": "TF_TF_C",
+      "name": "Climate Station at Temple Fork",
+      "latitude": 41.810576,
+      "longitude": -111.56177,
+      "elevation_m": 1907.0,
+      "site_type": "Atmosphere",
+      "vertical_datum": "EGM96",
+      "sampling_features": [
+        {
+          "feature_code": "BM",
+          "type": "reference_point",
+          "description": "Test benchmark (arbitrary datum)",
+          "status": "active",
+          "elevation_m": 10.0,
+          "datum": "arbitrary",
+          "is_benchmark": true
+        },
+        {
+          "feature_code": "SP",
+          "type": "stage_plate",
+          "description": "Test stage plate",
+          "status": "active",
+          "length": 1.0,
+          "units": "m",
+          "plate_type": "standard",
+          "bspe_m": 0.0
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "site_code": "BSF_Darwin_A",
+      "name": "Blacksmith Fork River at Darwin's Bridge",
+      "latitude": 41.64075,
+      "longitude": -111.817361,
+      "elevation_m": 1425.0,
+      "site_type": "Stream",
+      "vertical_datum": "EGM96",
+      "sampling_features": [
+        {
+          "feature_code": "BM",
+          "type": "reference_point",
+          "description": "Test benchmark (arbitrary datum)",
+          "status": "active",
+          "elevation_m": 10.0,
+          "datum": "arbitrary",
+          "is_benchmark": true
+        },
+        {
+          "feature_code": "SP",
+          "type": "stage_plate",
+          "description": "Test stage plate",
+          "status": "active",
+          "length": 1.0,
+          "units": "m",
+          "plate_type": "standard",
+          "bspe_m": 0.0
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "site_code": "LR_BM_C",
+      "name": "Climate Station at Beaver Mountain Summit",
+      "latitude": 41.96395,
+      "longitude": -111.557501,
+      "elevation_m": 2695.0,
+      "site_type": "Atmosphere",
+      "vertical_datum": "EGM96",
+      "sampling_features": [
+        {
+          "feature_code": "BM",
+          "type": "reference_point",
+          "description": "Test benchmark (arbitrary datum)",
+          "status": "active",
+          "elevation_m": 10.0,
+          "datum": "arbitrary",
+          "is_benchmark": true
+        },
+        {
+          "feature_code": "SP",
+          "type": "stage_plate",
+          "description": "Test stage plate",
+          "status": "active",
+          "length": 1.0,
+          "units": "m",
+          "plate_type": "standard",
+          "bspe_m": 0.0
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "site_code": "LR_DS_C",
+      "name": "Climate Station at Dewitt Springs",
+      "latitude": 41.759296,
+      "longitude": -111.707071,
+      "elevation_m": 1537.0,
+      "site_type": "Atmosphere",
+      "vertical_datum": "EGM96",
+      "sampling_features": [
+        {
+          "feature_code": "BM",
+          "type": "reference_point",
+          "description": "Test benchmark (arbitrary datum)",
+          "status": "active",
+          "elevation_m": 10.0,
+          "datum": "arbitrary",
+          "is_benchmark": true
+        },
+        {
+          "feature_code": "SP",
+          "type": "stage_plate",
+          "description": "Test stage plate",
+          "status": "active",
+          "length": 1.0,
+          "units": "m",
+          "plate_type": "standard",
+          "bspe_m": 0.0
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "site_code": "LR_1000W_A",
+      "name": "Logan River at 1000W Bridge",
+      "latitude": 41.70634842,
+      "longitude": -111.8607101,
+      "elevation_m": 1361.0,
+      "site_type": "Stream",
+      "vertical_datum": "EGM96",
+      "sampling_features": [
+        {
+          "feature_code": "BM",
+          "type": "reference_point",
+          "description": "Test benchmark (arbitrary datum)",
+          "status": "active",
+          "elevation_m": 10.0,
+          "datum": "arbitrary",
+          "is_benchmark": true
+        },
+        {
+          "feature_code": "SP",
+          "type": "stage_plate",
+          "description": "Test stage plate",
+          "status": "active",
+          "length": 1.0,
+          "units": "m",
+          "plate_type": "standard",
+          "bspe_m": 0.0
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "site_code": "LR_Cutler_A",
+      "name": "Logan River above Cutler Reservoir",
+      "latitude": 41.74309158,
+      "longitude": -111.9196625,
+      "elevation_m": 1343.0,
+      "site_type": "Stream",
+      "vertical_datum": "EGM96",
+      "sampling_features": [
+        {
+          "feature_code": "BM",
+          "type": "reference_point",
+          "description": "Test benchmark (arbitrary datum)",
+          "status": "active",
+          "elevation_m": 10.0,
+          "datum": "arbitrary",
+          "is_benchmark": true
+        },
+        {
+          "feature_code": "SP",
+          "type": "stage_plate",
+          "description": "Test stage plate",
+          "status": "active",
+          "length": 1.0,
+          "units": "m",
+          "plate_type": "standard",
+          "bspe_m": 0.0
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "site_code": "BSF_1700S_A",
+      "name": "Blacksmith Fork River at 1700S Footbridge",
+      "latitude": 41.70330048,
+      "longitude": -111.8437119,
+      "elevation_m": 1364.0,
+      "site_type": "Stream",
+      "vertical_datum": "EGM96",
+      "sampling_features": [
+        {
+          "feature_code": "BM",
+          "type": "reference_point",
+          "description": "Test benchmark (arbitrary datum)",
+          "status": "active",
+          "elevation_m": 10.0,
+          "datum": "arbitrary",
+          "is_benchmark": true
+        },
+        {
+          "feature_code": "SP",
+          "type": "stage_plate",
+          "description": "Test stage plate",
+          "status": "active",
+          "length": 1.0,
+          "units": "m",
+          "plate_type": "standard",
+          "bspe_m": 0.0
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "site_code": "LBR_MR_A",
+      "name": "Little Bear River at Mendon Road",
+      "latitude": 41.72027969,
+      "longitude": -111.9462814,
+      "elevation_m": 1348.0,
+      "site_type": "Stream",
+      "vertical_datum": "EGM96",
+      "sampling_features": [
+        {
+          "feature_code": "BM",
+          "type": "reference_point",
+          "description": "Test benchmark (arbitrary datum)",
+          "status": "active",
+          "elevation_m": 10.0,
+          "datum": "arbitrary",
+          "is_benchmark": true
+        },
+        {
+          "feature_code": "SP",
+          "type": "stage_plate",
+          "description": "Test stage plate",
+          "status": "active",
+          "length": 1.0,
+          "units": "m",
+          "plate_type": "standard",
+          "bspe_m": 0.0
+        }
+      ],
+      "status": "active"
+    },
+    {
+      "site_code": "SC_MR_A",
+      "name": "Spring Creek at Mendon Road",
+      "latitude": 41.720737,
+      "longitude": -111.92734,
+      "elevation_m": 1347.0,
+      "site_type": "Stream",
+      "vertical_datum": "EGM96",
+      "sampling_features": [
+        {
+          "feature_code": "BM",
+          "type": "reference_point",
+          "description": "Test benchmark (arbitrary datum)",
+          "status": "active",
+          "elevation_m": 10.0,
+          "datum": "arbitrary",
+          "is_benchmark": true
+        },
+        {
+          "feature_code": "SP",
+          "type": "stage_plate",
+          "description": "Test stage plate",
+          "status": "active",
+          "length": 1.0,
+          "units": "m",
+          "plate_type": "standard",
+          "bspe_m": 0.0
+        }
+      ],
+      "status": "active"
+    }
+  ]
+}
