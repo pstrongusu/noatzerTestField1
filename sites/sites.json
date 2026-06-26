@@ -251,11 +251,13 @@
     {
       "site_code": "LR_TG_BA",
       "name": "Logan River near Tony Grove",
+      "sampling_feature_type": "site",
+      "description": null,
       "latitude": 41.875846,
       "longitude": -111.564533,
       "elevation_m": 1886.1,
-      "site_type": "Stream",
-      "vertical_datum": "EGM96",
+      "established": null,
+      "access": null,
       "sampling_features": [
         {
           "feature_code": "BM",
@@ -271,13 +273,14 @@
           "type": "stage_plate",
           "description": "Test stage plate",
           "status": "active",
-          "length": 1.0,
-          "units": "m",
+          "length": 3.33,
+          "units": "ft",
           "plate_type": "standard",
           "bspe_m": 0.0
         }
       ],
-      "status": "active"
+      "contacts": [],
+      "site_notes": []
     },
     {
       "site_code": "LR_FB_BA",

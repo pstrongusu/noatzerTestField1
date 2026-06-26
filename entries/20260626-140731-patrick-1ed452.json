@@ -1,0 +1,32 @@
+{
+  "entry_id": "20260626-140731-patrick-1ed452",
+  "visit_id": "20260626-LR_TG_BA-38b939",
+  "author": "patrick",
+  "entered_timestamp": "2026-06-26T14:07:31.882479",
+  "record_created": "2026-06-26T14:07:31.889390",
+  "timestamp_end": "2026-06-26T14:07:31.882479",
+  "observation_time": "2026-06-26T14:06:00",
+  "type": "observation",
+  "text": "1407mdt - sonde out for DO cap repl\n\n1409 - start bubbler\n\n1427 - calb coeffs updayed\n\n        - start calb\n\n1430 - done calb\n\n1432 - sonde back",
+  "data": null,
+  "tags": [],
+  "media": null,
+  "deleted": null,
+  "comments": [],
+  "edit_history": [
+    {
+      "timestamp": "2026-06-26T14:19:04",
+      "edited_by": "patrick",
+      "changes": {
+        "text": "1407mdt - sonde out for DO cap repl"
+      }
+    },
+    {
+      "timestamp": "2026-06-26T14:32:05",
+      "edited_by": "patrick",
+      "changes": {
+        "text": "1407mdt - sonde out for DO cap repl\n\n1409 - start bubbler"
+      }
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "entry_id": "20260626-150053-patrick-7d1dde",
+  "visit_id": "20260626-LR_WC_A-32809f",
+  "author": "patrick",
+  "entered_timestamp": "2026-06-26T15:00:53.071679",
+  "record_created": "2026-06-26T15:00:53.071679",
+  "timestamp_end": "2026-06-26T15:00:53.071679",
+  "observation_time": "2026-06-26T15:00:53.071679",
+  "type": "level_survey",
+  "text": "Level Survey: HI = 16.0100 m, WSE = 8.7650 m, closure = 0.0 mm ✓",
+  "data": {
+    "autolevel_id": "Level-1",
+    "grade_rod_id": "Rod-1",
+    "dipstick_id": null,
+    "rod_person": "patrick",
+    "rod_uncertainty_m": 0.001,
+    "equipment_snapshots": {
+      "autolevel": {
+        "instrument_id": "Level-1",
+        "type": "autolevel",
+        "manufacturer": null,
+        "model": "autolevel",
+        "serial_number": null
+      },
+      "grade_rod": {
+        "instrument_id": "Rod-1",
+        "type": "grade_rod",
+        "manufacturer": null,
+        "model": "grade rod",
+        "serial_number": null,
+        "length": 4.0,
+        "units": "m",
+        "graduation": 0.001
+      },
+      "dipstick": null
+    },
+    "shots": [
+      {
+        "type": "backsight",
+        "target_code": "BM",
+        "rod_reading": 6.01,
+        "timestamp": "2026-06-26T15:00:53.057861"
+      },
+      {
+        "type": "rod_stage",
+        "rod_reading": 7.97,
+        "timestamp": "2026-06-26T14:58:00",
+        "water_correction": 0.725,
+        "correction_uncertainty_m": 0.025,
+        "wse_m": 8.764999999999999
+      },
+      {
+        "type": "closing_backsight",
+        "rod_reading": 6.01,
+        "timestamp": "2026-06-26T15:00:00",
+        "target_code": "BM",
+        "elevation_m": 9.999999999999998
+      }
+    ],
+    "hi_m": 16.009999999999998,
+    "benchmark_snapshot": {
+      "feature_code": "BM",
+      "elevation_m": 10.0,
+      "datum": "arbitrary"
+    },
+    "wse_results": [
+      {
+        "wse_m": 8.764999999999999,
+        "uncertainty_m": 0.025,
+        "shot_type": "rod_stage",
+        "timestamp": "2026-06-26T14:58:00"
+      }
+    ],
+    "wse_m": 8.764999999999999,
+    "wse_uncertainty_m": 0.025,
+    "closure_error_m": 1.7763568394002505e-15,
+    "closure_pass": true
+  },
+  "tags": [],
+  "media": null,
+  "deleted": null,
+  "comments": []
+}

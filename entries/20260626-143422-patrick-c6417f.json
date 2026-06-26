@@ -1,0 +1,36 @@
+{
+  "entry_id": "20260626-143422-patrick-c6417f",
+  "visit_id": "20260626-LR_TG_BA-38b939",
+  "author": "patrick",
+  "entered_timestamp": "2026-06-26T14:34:22.510931",
+  "record_created": "2026-06-26T14:34:22.510931",
+  "timestamp_end": "2026-06-26T14:34:22.510931",
+  "observation_time": "2026-06-26T14:34:00",
+  "type": "stage_plate_reading",
+  "text": "1.33 ft → WSE = 0.405 m",
+  "data": {
+    "sampling_feature_code": "SP",
+    "sampling_feature_snapshot": {
+      "feature_code": "SP",
+      "type": "stage_plate",
+      "bspe_m": 0.0,
+      "length": 3.33,
+      "units": "ft",
+      "plate_type": "standard",
+      "datum": null
+    },
+    "reading": 1.33,
+    "units": "ft",
+    "reading_m": 0.405384,
+    "uncertainty": 0.02,
+    "uncertainty_units": "ft",
+    "uncertainty_m": 0.006096000000000001,
+    "bspe_m": 0.0,
+    "wse_m": 0.405384,
+    "observation_time": "2026-06-26T14:34:00"
+  },
+  "tags": [],
+  "media": null,
+  "deleted": null,
+  "comments": []
+}
