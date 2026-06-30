@@ -1,0 +1,123 @@
+{
+  "entry_id": "20260629-124639-brooke-01b08a",
+  "visit_id": "20260629-LR_WaterLab_AA-e7eb36",
+  "author": "brooke",
+  "entered_timestamp": "2026-06-29T12:46:39.930534",
+  "record_created": "2026-06-29T12:46:39.930534",
+  "timestamp_end": "2026-06-29T12:46:39.930534",
+  "observation_time": "2026-06-29T12:46:00",
+  "type": "flow_midsection",
+  "text": "Midsection discharge: 2.0000 m³/s (3 stations)\n\nedit",
+  "data": {
+    "method": "midsection",
+    "unit_system": "metric",
+    "units": "m³/s",
+    "length_units": "m",
+    "velocity_units": "m/s",
+    "equipment_text": null,
+    "flowtracker_file": null,
+    "stations": [
+      {
+        "id": "s1",
+        "location": 2.0,
+        "depth": 1.0,
+        "points": [
+          {
+            "depth_frac": 0.6,
+            "velocity": 1.0
+          }
+        ],
+        "velocity_estimate": null,
+        "estimate_basis": null,
+        "note": "",
+        "edge": null
+      },
+      {
+        "id": "s3",
+        "location": 3.0,
+        "depth": 1.0,
+        "points": [
+          {
+            "depth_frac": 0.6,
+            "velocity": 1.0
+          }
+        ],
+        "velocity_estimate": null,
+        "estimate_basis": null,
+        "note": "",
+        "edge": null
+      },
+      {
+        "id": "s4",
+        "location": 1.0,
+        "depth": 1.0,
+        "points": [
+          {
+            "depth_frac": 0.6,
+            "velocity": 1.0
+          }
+        ],
+        "velocity_estimate": null,
+        "estimate_basis": null,
+        "note": "",
+        "edge": null
+      }
+    ],
+    "derived": {
+      "total_q": 2.0,
+      "n_stations": 3,
+      "stations": [
+        {
+          "id": "s4",
+          "location": 1.0,
+          "depth": 1.0,
+          "width": 0.5,
+          "area": 0.5,
+          "v_mean": 1.0,
+          "q": 0.5,
+          "velocity_source": "derived",
+          "velocity_method": "one_point",
+          "pct_q": 25.0
+        },
+        {
+          "id": "s1",
+          "location": 2.0,
+          "depth": 1.0,
+          "width": 1.0,
+          "area": 1.0,
+          "v_mean": 1.0,
+          "q": 1.0,
+          "velocity_source": "derived",
+          "velocity_method": "one_point",
+          "pct_q": 50.0
+        },
+        {
+          "id": "s3",
+          "location": 3.0,
+          "depth": 1.0,
+          "width": 0.5,
+          "area": 0.5,
+          "v_mean": 1.0,
+          "q": 0.5,
+          "velocity_source": "derived",
+          "velocity_method": "one_point",
+          "pct_q": 25.0
+        }
+      ]
+    }
+  },
+  "tags": [],
+  "media": null,
+  "deleted": null,
+  "comments": [],
+  "edit_history": [
+    {
+      "timestamp": "2026-06-29T12:46:49",
+      "edited_by": "brooke",
+      "changes": {
+        "observation_time": "2026-06-29T12:46:39.930534",
+        "text": "Midsection discharge: 2.0000 m³/s (3 stations)"
+      }
+    }
+  ]
+}

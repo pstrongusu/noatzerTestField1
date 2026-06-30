@@ -18,7 +18,7 @@
   "git_remote_url": "https://github.com/pstrongusu/noatzerTestField1",
   "last_survey_equipment": {
     "autolevel_id": "Level-1",
-    "grade_rod_id": "Rod-1",
+    "grade_rod_id": "rod-1",
     "dipstick_id": null,
     "rod_person": "patrick"
   }

@@ -1,0 +1,93 @@
+{
+  "entry_id": "20260630-143645-brooke-62ce88",
+  "visit_id": "20260629-LR_WaterLab_AA-e7eb36",
+  "author": "brooke",
+  "entered_timestamp": "2026-06-30T14:36:45.701323",
+  "record_created": "2026-06-30T14:36:45.701323",
+  "timestamp_end": "2026-06-30T14:36:45.701323",
+  "observation_time": "2026-06-30T14:36:45.701323",
+  "type": "level_survey",
+  "text": "Level Survey: HI = 14.0000 m, WSE = 11.2750 m, closure = 5.0 mm ✓",
+  "data": {
+    "autolevel_id": "Level-1",
+    "grade_rod_id": "rod-1",
+    "dipstick_id": null,
+    "rod_person": "patrick",
+    "rod_uncertainty_m": 0.0030480000000000004,
+    "equipment_snapshots": {
+      "autolevel": {
+        "instance_id": "Level-1",
+        "serial": "123456",
+        "model": "NA320",
+        "manufacturer": "Leica",
+        "categories": [
+          "autolevel"
+        ]
+      },
+      "grade_rod": {
+        "instance_id": "rod-1",
+        "serial": null,
+        "model": "grade_rod",
+        "manufacturer": null,
+        "categories": [
+          "grade_rod"
+        ],
+        "graduation_m": 0.01,
+        "length_m": 25.0
+      },
+      "dipstick": null
+    },
+    "shots": [
+      {
+        "type": "backsight",
+        "target_code": "BM",
+        "rod_reading": 4.0,
+        "timestamp": "2026-06-30T14:35:00"
+      },
+      {
+        "type": "foresight",
+        "rod_reading": 3.0,
+        "timestamp": "2026-06-30T14:35:00",
+        "target_code": "BM",
+        "elevation_m": 11.0
+      },
+      {
+        "type": "rod_stage",
+        "rod_reading": 3.0,
+        "timestamp": "2026-06-30T14:35:00",
+        "water_correction": 0.275,
+        "correction_uncertainty_m": 0.015,
+        "wse_m": 11.275
+      },
+      {
+        "type": "closing_backsight",
+        "rod_reading": 4.005,
+        "timestamp": "2026-06-30T14:36:00",
+        "target_code": "BM",
+        "elevation_m": 9.995000000000001
+      }
+    ],
+    "hi_m": 14.0,
+    "benchmark_snapshot": {
+      "feature_code": "BM",
+      "elevation_m": 10.0,
+      "datum": "arbitrary"
+    },
+    "wse_results": [
+      {
+        "wse_m": 11.275,
+        "uncertainty_m": 0.015,
+        "shot_type": "rod_stage",
+        "timestamp": "2026-06-30T14:35:00"
+      }
+    ],
+    "wse_m": 11.275,
+    "wse_uncertainty_m": 0.015,
+    "closure_error_m": 0.004999999999999005,
+    "closure_pass": true
+  },
+  "tags": [],
+  "media": null,
+  "deleted": null,
+  "comments": []
+}

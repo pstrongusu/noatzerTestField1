@@ -2,66 +2,35 @@
   "instruments": [
     {
       "instrument_id": "Level-1",
-      "category": "Survey Gear",
       "type": "autolevel",
       "status": "lab",
-      "model": "autolevel"
+      "manufacturer": "Leica",
+      "model": "NA320",
+      "serial_number": "123456"
     },
     {
-      "instrument_id": "Rod-1",
+      "instrument_id": "Level-2",
+      "category": "Survey Gear",
+      "type": "otherlevel",
+      "status": "lab"
+    },
+    {
+      "instrument_id": "rod-1",
       "category": "Survey Gear",
       "type": "grade_rod",
       "status": "lab",
-      "model": "grade rod",
-      "length": 4.0,
-      "units": "m",
-      "graduation": 0.001
+      "length_m": 25.0,
+      "units": "ft",
+      "graduation_m": 0.01
     },
     {
-      "instrument_id": "FT2-1",
-      "category": "Flow Sensors",
-      "type": "adv",
+      "instrument_id": "DS-1",
+      "category": "Survey Gear",
+      "type": "dipstick",
       "status": "lab",
-      "manufacturer": "SonTek",
-      "model": "FlowTracker2",
-      "serial_number": "1234"
-    },
-    {
-      "instrument_id": "RS5-007",
-      "category": "Flow Sensors",
-      "type": "adcp",
-      "status": "lab",
-      "manufacturer": "SonTek",
-      "model": "RS5",
-      "serial_number": "007"
-    },
-    {
-      "instrument_id": "WR-1",
-      "category": "Wading Rods",
-      "type": "topsetting_metric",
-      "status": "lab",
-      "model": "Top-setting wading rod (metric)"
-    },
-    {
-      "instrument_id": "HBMini",
-      "category": "Vessels",
-      "type": "tbmini",
-      "status": "lab",
-      "model": "HydroBoard Mini"
-    },
-    {
-      "instrument_id": "HBMax",
-      "category": "Vessels",
-      "type": "tbmax",
-      "status": "lab",
-      "model": "HydroBoard Max"
-    },
-    {
-      "instrument_id": "HBIIMax",
-      "category": "Vessels",
-      "type": "hbiimax",
-      "status": "lab",
-      "model": "HydroBoard2 Max"
+      "model": "short, white ball",
+      "length": 0.8,
+      "units": "m"
     }
   ]
 }
