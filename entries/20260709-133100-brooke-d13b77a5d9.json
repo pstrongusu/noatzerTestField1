@@ -1,0 +1,26 @@
+{
+  "entry_id": "20260709-133100-brooke-d13b77a5d9",
+  "visit_id": "20260709-LR_WaterLab_AA-326128fa63",
+  "author": "brooke",
+  "entered_timestamp": "2026-07-09T13:31:00.063822",
+  "record_created": "2026-07-09T13:31:00.067932",
+  "timestamp_end": "2026-07-09T13:31:42.983567",
+  "observation_time": "2026-07-09T13:30:00",
+  "type": "quick_note",
+  "category": "site_conditions",
+  "text": "test edit",
+  "data": null,
+  "tags": [],
+  "media": null,
+  "deleted": null,
+  "comments": [],
+  "edit_history": [
+    {
+      "timestamp": "2026-07-09T13:34:02",
+      "edited_by": "brooke",
+      "changes": {
+        "text": "test conditions"
+      }
+    }
+  ]
+}

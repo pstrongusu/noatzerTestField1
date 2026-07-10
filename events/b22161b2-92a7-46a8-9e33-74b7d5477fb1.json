@@ -1,0 +1,21 @@
+{
+  "event_id": "b22161b2-92a7-46a8-9e33-74b7d5477fb1",
+  "event_type": "calibrate",
+  "visit_id": "20260629-LR_WaterLab_AA-e7eb36",
+  "author": "brooke",
+  "instance_id": "inst-0003",
+  "model_id": null,
+  "occurred_at": "2026-07-09T08:51:49",
+  "record_created": "2026-07-09T08:51:49",
+  "anchor_feature_id": null,
+  "parent_instance_id": null,
+  "note": "",
+  "source": "field",
+  "source_note": "",
+  "config_values": [],
+  "superseded_by": null,
+  "corrects": null,
+  "correction_reason": null,
+  "deleted": null,
+  "void_history": []
+}

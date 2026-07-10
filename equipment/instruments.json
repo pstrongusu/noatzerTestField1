@@ -1,36 +1,183 @@
 {
-  "instruments": [
+  "models": [
     {
-      "instrument_id": "Level-1",
-      "type": "autolevel",
-      "status": "lab",
-      "manufacturer": "Leica",
+      "model_id": "model-0001",
       "model": "NA320",
-      "serial_number": "123456"
+      "manufacturer": "Leica",
+      "categories": [
+        "autolevel"
+      ],
+      "deployable": false,
+      "attribute_schema": [],
+      "attribute_values": {},
+      "notes": ""
     },
     {
-      "instrument_id": "Level-2",
-      "category": "Survey Gear",
-      "type": "otherlevel",
-      "status": "lab"
+      "model_id": "model-0002",
+      "model": "otherlevel",
+      "manufacturer": null,
+      "categories": [
+        "otherlevel"
+      ],
+      "deployable": false,
+      "attribute_schema": [],
+      "attribute_values": {},
+      "notes": ""
     },
     {
-      "instrument_id": "rod-1",
-      "category": "Survey Gear",
-      "type": "grade_rod",
-      "status": "lab",
-      "length_m": 25.0,
-      "units": "ft",
-      "graduation_m": 0.01
+      "model_id": "model-0003",
+      "model": "grade_rod",
+      "manufacturer": null,
+      "categories": [
+        "grade_rod"
+      ],
+      "deployable": false,
+      "attribute_schema": [
+        {
+          "key": "length_m",
+          "datatype": "number",
+          "level": "model",
+          "units": "m",
+          "label": "Length"
+        },
+        {
+          "key": "graduation_m",
+          "datatype": "number",
+          "level": "model",
+          "units": "m",
+          "label": "Graduation"
+        }
+      ],
+      "attribute_values": {
+        "length_m": 25.0,
+        "graduation_m": 0.01
+      },
+      "notes": ""
     },
     {
-      "instrument_id": "DS-1",
-      "category": "Survey Gear",
-      "type": "dipstick",
-      "status": "lab",
+      "model_id": "model-0004",
       "model": "short, white ball",
-      "length": 0.8,
-      "units": "m"
+      "manufacturer": null,
+      "categories": [
+        "dipstick"
+      ],
+      "deployable": false,
+      "attribute_schema": [],
+      "attribute_values": {},
+      "notes": ""
+    },
+    {
+      "model_id": "model-0005",
+      "model": "RS5",
+      "manufacturer": "ST",
+      "categories": [
+        "flow_sensors"
+      ],
+      "deployable": false,
+      "accepts_children": false,
+      "attribute_schema": [],
+      "attribute_values": {},
+      "notes": ""
+    },
+    {
+      "model_id": "model-0006",
+      "model": "TBSomething",
+      "manufacturer": null,
+      "categories": [
+        "vessels"
+      ],
+      "deployable": false,
+      "accepts_children": false,
+      "attribute_schema": [],
+      "attribute_values": {},
+      "notes": ""
+    },
+    {
+      "model_id": "model-0007",
+      "model": "Dip stick One",
+      "manufacturer": "me",
+      "categories": [
+        "dipstick"
+      ],
+      "deployable": false,
+      "accepts_children": false,
+      "attribute_schema": [],
+      "attribute_values": {},
+      "notes": ""
+    },
+    {
+      "model_id": "model-0008",
+      "model": "asdf",
+      "manufacturer": null,
+      "categories": [
+        "flow_sensors"
+      ],
+      "deployable": true,
+      "accepts_children": false,
+      "attribute_schema": [],
+      "attribute_values": {},
+      "notes": ""
+    }
+  ],
+  "instances": [
+    {
+      "instance_id": "Level-1",
+      "model_id": "model-0001",
+      "serial": "123456",
+      "label": "",
+      "attribute_values": {},
+      "notes": ""
+    },
+    {
+      "instance_id": "Level-2",
+      "model_id": "model-0002",
+      "serial": null,
+      "label": "",
+      "attribute_values": {},
+      "notes": ""
+    },
+    {
+      "instance_id": "rod-1",
+      "model_id": "model-0003",
+      "serial": null,
+      "label": "",
+      "attribute_values": {},
+      "notes": ""
+    },
+    {
+      "instance_id": "DS-1",
+      "model_id": "model-0004",
+      "serial": null,
+      "label": "",
+      "attribute_values": {},
+      "notes": ""
+    },
+    {
+      "instance_id": "inst-0001",
+      "model_id": "model-0006",
+      "serial": "TB1",
+      "label": "",
+      "attribute_values": {},
+      "notes": "",
+      "record_created": "2026-07-07T13:06:32.230923"
+    },
+    {
+      "instance_id": "inst-0002",
+      "model_id": "model-0005",
+      "serial": "RS5-1",
+      "label": "",
+      "attribute_values": {},
+      "notes": "",
+      "record_created": "2026-07-07T13:06:44.910876"
+    },
+    {
+      "instance_id": "inst-0003",
+      "model_id": "model-0008",
+      "serial": "asdf",
+      "label": "",
+      "attribute_values": {},
+      "notes": "",
+      "record_created": "2026-07-08T17:13:20.416662"
     }
   ]
 }
